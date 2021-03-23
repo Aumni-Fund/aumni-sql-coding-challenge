@@ -1,0 +1,1 @@
+# aumni-sql-coding-challenge
