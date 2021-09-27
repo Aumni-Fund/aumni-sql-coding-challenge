@@ -1,6 +1,6 @@
 <img src="https://aumni-public.s3.amazonaws.com/AumniLogoColor.png" alt="Aumni Logo" width="200" height="55">
 
-# Aumni Backend Coding Challenge
+# Aumni SQL Coding Challenge
 
 Visit the Stack Overflow Data Exchange at: https://data.stackexchange.com/stackoverflow/query/edit/1388536
 In the right-hand pane you will see the schema for the Stack Overflow database. All of the columns you'll need to perform these queries are in the Posts and Users tables.
