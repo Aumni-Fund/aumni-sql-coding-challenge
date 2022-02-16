@@ -24,6 +24,4 @@ Please provide your query that answers each of these questions:
 
 3. Zip your folder up.
 
-4. Upload your zip to http://file.io using the "Upload" button or the `cURL` commands.
-
-5. Email the file download URL to [Aumni Eng Recruiting](mailto:eng-recruiting@aumni.fund).
+4. Upload it as per ![UploadSubmission.png](https://github.com/Aumni-Fund/node-coding-challenge/blob/master/UploadSubmission.png).
