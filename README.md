@@ -22,8 +22,4 @@ Please provide your query that answers each of these questions:
 
 2. Place each SQL query in a new file inside of the folder that was just created.
 
-3. Zip your folder up.
-
-4. Upload it as per 
-
-![UploadSubmission.png](https://github.com/Aumni-Fund/node-coding-challenge/blob/master/UploadSubmission.png).
+3. Zip your folder up and send it to us.
