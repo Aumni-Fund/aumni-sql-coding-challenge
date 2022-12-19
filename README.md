@@ -22,4 +22,6 @@ Please provide your query that answers each of these questions:
 
 2. Place each SQL query in a new file inside of the folder that was just created.
 
-3. Zip your folder up and send it to us.
+3. Zip your folder up
+
+4. We use Breezy as our ATS (Applicant Tracking System), you should have received and email with a link to Breezy to submit your zip file. If you did not get the email or can't find it, reach out to eng-recruiting@aumni.fund for a new link.
