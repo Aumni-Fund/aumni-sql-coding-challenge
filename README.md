@@ -24,4 +24,4 @@ Please provide your query that answers each of these questions:
 
 3. Zip your folder up
 
-4. We use Breezy as our ATS (Applicant Tracking System), you should have received and email with a link to Breezy to submit your zip file. If you did not get the email or can't find it, reach out to eng-recruiting@aumni.fund for a new link.
+4. We use Breezy as our ATS (Applicant Tracking System), you should have received and email with a link to Breezy to submit your zip file. If you did not get the email or can't find it, reach out to recruiting_eng@aumni.fund for a new link.
