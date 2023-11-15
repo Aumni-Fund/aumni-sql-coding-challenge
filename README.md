@@ -19,4 +19,4 @@ Please provide your query that answers each of these questions:
 
 ## Submission
 
-The technical interview with the team will be one hour long. Please prepare the technical challenge ahead of time and bring it to that pairing session with the team. They will bring some questions about your implementation and possibly some refactor ideas. 
+The technical interview with the team will be one hour long. 
